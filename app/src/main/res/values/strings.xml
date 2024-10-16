@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseAndroidProject</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_disconnected">Network error</string>
+</resources>
